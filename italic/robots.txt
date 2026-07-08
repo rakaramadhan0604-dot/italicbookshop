@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /config/
+Disallow: /database/
+Disallow: /process/
+
+Sitemap: https://www.italic.co.id/sitemap.xml
